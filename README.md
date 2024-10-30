@@ -2,6 +2,7 @@
 
 # INSIGHTS 
 1.Total Sales And Footfall :
+
 Total Sales Amount to $698,812.33.
 The Total Footfall is 149,116 Customers.
 The Average Bill Per person is $4.69.
