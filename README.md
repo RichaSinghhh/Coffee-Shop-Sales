@@ -35,7 +35,7 @@ The Highest Footfall Is on Thursday(21,654), followed by Friday(21,701).
 The Lowest Footfall On a Weekday is on Wednesday (21,320).
 Weekend Footfall Is Relatively Lower, with Saturday at 20,510 And Sunday At 21,096.
 
-8. Monthly Sales:  
-The Dashboard Allows Filtering By Months, Indicating Potential For Analyzing Trends Over Different Months.
+8. Monthly Sales:
+ The Dashboard Allows Filtering By Months, Indicating Potential For Analyzing Trends Over Different Months.
 
 
